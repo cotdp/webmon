@@ -1,0 +1,4 @@
+A simple example of using libpcap from Python to record web browsing activity.
+
+Requires 'pcapy'; On Fedora these can be installed with YUM:
+	sudo yum install pcapy
